@@ -1,5 +1,5 @@
 % Copyright by Olgu Tanriverdi, 02-22-2018
-% This script sets up random three contributing inputs to test disintegrate function
+% This script sets up random three contributing inputs to test disaggregate function
 clear all;
 close all;
 n=40;
